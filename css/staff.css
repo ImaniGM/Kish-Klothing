@@ -1,0 +1,78 @@
+body {
+  font-family: "Montserrat", sans-serif;
+  font-size: 14px;
+}
+
+header {
+  background-color: #3c5e9c;
+  color: #fff;
+  padding: 20px;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+.profile {
+  display: flex;
+}
+
+.profile h3 {
+  padding-right: 20px;
+}
+
+main {
+  margin: 10px 30px;
+}
+
+.order-change {
+  display: none;
+}
+
+aside {
+  background-color: #3bbdce;
+  margin-right: 10px;
+  color: #fff;
+  padding-left: 10px;
+  font-size: 13px;
+}
+
+hr {
+  border: 1px solid #b3b3b3;
+}
+
+.complete {
+  border: 1px solid #3bbdce;
+  border-radius: 30px;
+  width: 200px;
+  background-color: #3bbdce;
+  color: #fff;
+  padding: 7px 20px;
+  margin-right: 7px;
+  text-align: center;
+  cursor: pointer;
+}
+
+.cancel {
+  border: 1px solid #3c5e9c;
+  border-radius: 30px;
+  width: 200px;
+  background-color: #3c5e9c;
+  color: #fff;
+  padding: 7px 20px;
+  margin-right: 7px;
+  text-align: center;
+  cursor: pointer;
+}
+
+#log-out {
+  border: 1px solid #3bbdce;
+  border-radius: 30px;
+  width: 150px;
+  background-color: #3bbdce;
+  color: #fff;
+  padding: 7px 20px;
+  margin-right: 7px;
+  text-align: center;
+  cursor: pointer;
+}
